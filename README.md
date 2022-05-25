@@ -8,4 +8,4 @@ for every test case,
 - next N lines are M inputs of the array
 
 The main function mountainClimbing() will output the max value that can be achieved by starting at the top left of each array and "scaling" down to the bottom right.
-Requires a dynamic programming approach since there are many possible scalings and a brute force approach would take too long.
+Requires a dynamic programming approach since there are many possible scalings and a brute force approach would be inefficient.
